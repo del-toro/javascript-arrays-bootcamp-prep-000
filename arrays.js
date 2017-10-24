@@ -20,5 +20,5 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 //console.log(check2);
 
 
-var check = addElementToBeginningOfArray(thing, 'yo');
-console.log(check);
+addElementToBeginningOfArray(thing, 'yo');
+console.log(thing);
