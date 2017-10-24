@@ -6,7 +6,6 @@ console.log(thing);
 
 function addElementToBeginningOfArray(array,element){
    const newarray = [element, ...array];
-   console.log(newarray);
    return newarray;
 }
 
