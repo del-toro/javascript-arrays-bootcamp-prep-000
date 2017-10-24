@@ -15,3 +15,4 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 
 var check = addElementToBeginningOfArray(thing, 'yo');
 console.log('1',thing);
+console.log(check);
