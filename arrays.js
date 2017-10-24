@@ -1,6 +1,6 @@
 chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
-/*--
+/*--all the functions:
 addElementToBeginningOfArray
 destructivelyAddElementToBeginningOfArray
 addElementToEndOfArray
