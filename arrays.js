@@ -14,4 +14,4 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 }
 
 addElementToBeginningOfArray(thing, 'yo');
-//console.log(thing);
+console.log(thing);
