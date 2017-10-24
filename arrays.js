@@ -1,7 +1,7 @@
 chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
 const thing = ['dude'];
-console.log(thing);
+console.log('0',thing);
 
 
 function addElementToBeginningOfArray(array,element){
@@ -14,4 +14,4 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 }
 
 addElementToBeginningOfArray(thing, 'yo');
-console.log(thing);
+console.log('1',thing);
