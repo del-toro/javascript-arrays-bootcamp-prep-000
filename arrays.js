@@ -3,7 +3,7 @@ chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 const thing = ['dude'];
 
 function addElementToBeginningOfArray(array,element){
-   var newarray = new Array(array);
+   var newarray = array;
    newarray.unshift(element);
    return newarray;
 }
