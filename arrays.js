@@ -5,7 +5,7 @@ console.log(thing);
 
 
 function addElementToBeginningOfArray(array,element){
-   const newarray = [element,...array];
+   const newarray = [element, ...array];
    return newarray;
 }
 
